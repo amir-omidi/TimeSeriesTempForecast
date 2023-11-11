@@ -49,7 +49,9 @@ data_norm = (data - mn) / (mx - mn)
 
 
 ##Author
-Amirhossein Omidi
+
+**Amirhossein Omidi
 
 ##Contact
-65mirhossein@gmail.com
+
+**65mirhossein@gmail.com
