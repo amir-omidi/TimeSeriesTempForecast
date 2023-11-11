@@ -48,10 +48,10 @@ data_norm = (data - mn) / (mx - mn)
 ```
 
 
-##Author
+## Author
 
-**Amirhossein Omidi
+Amirhossein Omidi
 
-##Contact
-
-**65mirhossein@gmail.com
+## Contact
+65mirhossein@gmail.com
+```
